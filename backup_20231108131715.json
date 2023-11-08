@@ -1,0 +1,56 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "Pantalon",
+    "inventarioProducto": 17,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "Camisa",
+    "inventarioProducto": 6,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "Chaqueta",
+    "inventarioProducto": 10,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "Zapatos",
+    "inventarioProducto": 9,
+    "precioProducto": 75000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "Tenis",
+    "inventarioProducto": 1,
+    "precioProducto": 65500
+  },
+  {
+    "codigoProducto": "12",
+    "nombreProducto": "tablet",
+    "inventarioProducto": 13,
+    "precioProducto": 140000
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "soka",
+    "inventarioProducto": 12,
+    "precioProducto": 1200
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "fruco",
+    "inventarioProducto": 10,
+    "precioProducto": 1000
+  },
+  {
+    "codigoProducto": "12",
+    "nombreProducto": "jor",
+    "inventarioProducto": 13,
+    "precioProducto": 130
+  }
+]
