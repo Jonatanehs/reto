@@ -194,7 +194,6 @@ class ProductosTienda{
     }
     
     async eliminarProducto() {
-        // const rl = readLine
         
 
         const codigoProductoAEliminar = await new Promise(resolve => {

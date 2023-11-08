@@ -30,12 +30,6 @@
     "precioProducto": 65500
   },
   {
-    "codigoProducto": "12",
-    "nombreProducto": "tablet",
-    "inventarioProducto": 13,
-    "precioProducto": 140000
-  },
-  {
     "codigoProducto": "09",
     "nombreProducto": "soka",
     "inventarioProducto": 12,

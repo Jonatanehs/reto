@@ -78,13 +78,16 @@ do {
         case '5':
             console.clear();
             console.log(`----- Eliminar producto -----`);
+            await productosTienda.mostrarProductos();
             await productosTienda.eliminarProducto();
             await pausa();
     break;
         case '6':
             console.clear();
             const datos = new Cliente
+
             console.log(`----- Comprar productos -----`);
+            await  productosTienda.mostrarProductos()
             await datos.comprar(productosTienda); // Añadir productosTienda como argumento
             await pausa();
             break;
